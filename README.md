@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" contet="width=device-width, initial-scale=1.0">
-    <title>Thành viên team CT</title>
         <body bgcolor="#666666" text="#CFEBFC">
             <h1 align="center"><b>TEAM CT CẦN THƠ</b></h1>
             <font color="#440000">
@@ -31,5 +30,4 @@
                     </ul>
                 </h3>
         </body>
-
-    </head>
+</head>
