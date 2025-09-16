@@ -21,7 +21,7 @@
   </style>
 </head>
 <body>
-  <h1><b>TEAM CT CẦN THƠ</b></h1>
+  <h1><b>TEAM CT CẦN THƠ </b></h1>
 
   <h2 style="color: #440000;">
     <i>Team Cần Thơ, chí Tôn, Cao Thủ, Chiến Tướng, Chiến Thần</i>
